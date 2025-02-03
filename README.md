@@ -1,2 +1,17 @@
-# IndustryTalk-01_TIS
-![Tisposter-1](https://github.com/user-attachments/assets/498e00d8-18ae-4b2a-b32e-ed60964f4030)
+## Assignment 1: Poster Industry Talk 1
+
+>  Technology and Information System (SECP1513-05)  
+> Session 2024/2025
+> Semester 1
+ 
+ Group members:
+ 1. ADAM SYAHMI BIN ABDULLAH (A24CS0219)
+ 2. MUHAMMAD AFIQ IRFAN BIN ZURAIMI (A24CS0122)
+ 3. MUHAMMAD AMIRUL AIMAN BIN ABDULLAH (A24CS0124)  
+ 4. MUHAMAD HAZIM  BIN ZULKANAIN (A24CS0136)
+ 5. PRAVEIN A/L LETCHUMANAN (A24CS0179)
+ 
+Click the text:
+[ **ASSIGNMENT 1 - POSTER INDUSTRY TALK 1**] [ASSIGNMNET 1 POSTER.pdf](https://github.com/user-attachments/files/18639030/ASSIGNMNET.1.POSTER.pdf)
+
+ 
